@@ -1,8 +1,11 @@
 # C64 S.I.D. Vicious Vol. 1
-This is the first video on the series (at the time of writing, I'm not sure there'll be a second one, but I still have some memorable tracks I would like to share, so maybe...).
+This is the first video on the series (at the time of writing, I'm not sure there'll be a second one, but I still have some memorable tracks I would like to share, so maybe...)
 
-<img src="https://github.com/nix-codes/c64-sid-vicious/blob/main/preview.png" width="600">
-![](preview.png)
+<img src="https://github.com/nix-codes/c64-sid-vicious/blob/main/vol-1/preview.png" width="600">
+
+Watch it [here](https://www.youtube.com/watch?v=8fDXlhXsQ64)
+
+
 
 
 ## Main tools used:
