@@ -24,6 +24,7 @@ Programmed mainly in 6502 assembly and Golang.
 
 ## Organization of the code
 ### 1) 6502 assembly files
+These are written for CBM Prg Studio assembler:
 * `intro.asm`: this program is the intro of the video, where there is some text shown and color effects on the borders of the screen.
 * `clip-transition`: this is the program for creating the "transition" effect that we use between clips of gameplays
 * `outro`: this one is the most complex routine of the 3. It shows the credits and uses some "color-cycling" effect.
