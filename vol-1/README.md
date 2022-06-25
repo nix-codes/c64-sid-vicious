@@ -1,8 +1,12 @@
 # C64 S.I.D. Vicious Vol. 1
-This is the first video on the series (at the time of writing, I'm not sure there'll be a second one, but I still have some memorable tracks I would like to share, so maybe...).
+This is the first video on the series.
+The whole thing took a month of work: Some time catching up on the c64 stuff, trying things out, prototyping, writing things that didn't work, some learning curve on the 6502 processor, audio editing, gameplay, etc.
 
-<img src="https://github.com/nix-codes/c64-sid-vicious/blob/main/preview.png" width="600">
-![](preview.png)
+<img src="https://github.com/nix-codes/c64-sid-vicious/blob/main/vol-1/preview.png" width="600">
+
+Watch the video [here](https://www.youtube.com/watch?v=8fDXlhXsQ64)
+
+
 
 
 ## Main tools used:
@@ -21,6 +25,7 @@ Programmed mainly in 6502 assembly and Golang.
 
 ## Organization of the code
 ### 1) 6502 assembly files
+These are written for CBM Prg Studio assembler:
 * `intro.asm`: this program is the intro of the video, where there is some text shown and color effects on the borders of the screen.
 * `clip-transition`: this is the program for creating the "transition" effect that we use between clips of gameplays
 * `outro`: this one is the most complex routine of the 3. It shows the credits and uses some "color-cycling" effect.
